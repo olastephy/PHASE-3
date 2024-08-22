@@ -130,7 +130,17 @@ After the scan is complete, any discovered nodes will be displayed in the site t
 
 ![shot 19](https://github.com/user-attachments/assets/99301f0d-ddc2-4ef9-8e46-b77efc483ff2)
 
- No Alert Found
+ No Alert found
+
+
+
+ ![shot 20](https://github.com/user-attachments/assets/2a8d5168-f505-4e4b-9a5b-c060208c5593)
+11 Alerts found
+0 Medium
+5 Low
+3 information
+
+ 
 
 
 
