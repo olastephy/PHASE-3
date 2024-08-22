@@ -46,8 +46,9 @@ Downloading Of the Certificate
 
 ![SHOT 9](https://github.com/user-attachments/assets/28f8fe7b-d7fd-4243-8c7f-d034bc60c595)
 
-Importation Of the Certificate
 
+![SHOT 10](https://github.com/user-attachments/assets/aadc630a-e5cb-4d1f-bf74-d7fdd259ea09)
+Importation  of the Cerificate
 
 
 
