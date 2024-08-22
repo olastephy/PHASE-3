@@ -2,5 +2,5 @@
 my kali login
 
 
+Kali update
 SHOT 2](https://github.com/user-attachments/assets/cf2b7ffa-bc75-4133-86d9-fda80c32eb8f)
-KALI UPDATE
