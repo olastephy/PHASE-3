@@ -99,6 +99,12 @@ Before you start using ZAP, it's important to check for and update any addons to
 
 
 
+![SHOT 14](https://github.com/user-attachments/assets/b1b765c4-cceb-4eeb-af91-38fb74217347)
+
+In the next window, input the URL of the web app you want to scan and choose the “Recurse” option. This instructs ZAP to explore all URLs or directories from the starting URL. When you’re prepared, click “Start Scan.”
+
+
+
 
 
 
