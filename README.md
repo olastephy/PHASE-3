@@ -3,4 +3,4 @@ my kali login
 
 
 Kali update
-SHOT 2](https://github.com/user-attachments/assets/cf2b7ffa-bc75-4133-86d9-fda80c32eb8f)
+![SHOT 2](https://github.com/user-attachments/assets/4bdad937-0028-4468-90c2-4b597277361d)
