@@ -64,30 +64,7 @@ Before diving into ZAP, let's first explore the main interface to highlight the 
 
 
 
-![SHOT 12](https://github.com/user-attachments/assets/7849426f-5688-4377-8bdf-934f39d648f6)
-
-Overview of the OWASP ZAP Interface
-
-    Menu Bar: Allows you to create and manage sessions, generate reports, access tools, and find help, among other options.
-
-    Toolbar: Provides quick access to the most commonly used features through shortcut buttons.
-
-    Tree Window: Displays a hierarchical view of the site you're testing and the associated script tree.
-
-    Quickstart/Workspace Window: Serves as an easy entry point for using ZAP, especially for new users. It also shows request and response details and allows for script editing.
-
-    Information Window:
-        History Tab: Records all HTTP requests and responses processed by ZAP.
-        Search Tab: Enables searching through requests and responses.
-        Alerts Tab: Shows security alerts identified during scans.
-        Output Tab: Provides detailed output from various scans and processes.
-
-    Footer: Displays status information for ZAP.
-        Alerts Counter: Summarizes detected alerts, using color coding (e.g., red, yellow) to indicate their severity.
-        Main Proxy: Shows the main proxy configuration that ZAP uses, typically set to "localhost:8080."
-        Current Scans: Displays any active scans, with icons indicating their status or progress.
-
-Before you begin using zap, it is crucial to check and update any add-ons. this guaratess that you are working with the most recent features and enhaceement.
+![SHOT 12](https://github.com/user-attachments/assets/7849426f-5688-4377-8bdf-934f39d6
 
 
 
