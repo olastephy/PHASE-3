@@ -30,4 +30,8 @@ Kali update
 
 ![SHOT 5](https://github.com/user-attachments/assets/c8095383-baa3-410d-98dd-d5800bb6d3ec)
 Zap Installtion
-  
+
+
+![SHOT 6](https://github.com/user-attachments/assets/41916daa-5363-4fe3-9d1f-32a4bc06c5cd)
+Downloading of ADD-ONS for firefox browser extension
+
