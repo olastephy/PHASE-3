@@ -63,10 +63,10 @@ Powering Zap
 
 ![SHOT 12](https://github.com/user-attachments/assets/a6449c2e-3b9b-4956-a1cb-52eed1eeec46)
 
+When you start ZAP, you’ll see a prompt asking, “Do you want to persist this ZAP session?” If you choose “No, I do not want to persist this session at this moment in time,” ZAP will not save the session to the HSQL database. This means that once you close ZAP, any request history, site information, and other session details will not be saved and will be lost. If you opt to persist the session, you can save and reload the session data later.
 
-Zap Overview
 
-Before diving into ZAP, let's first explore the main interface to highlight the locations of key features. The interface is rich with information, showcasing the wide range of functions that ZAP offers.
+
 
 
 
