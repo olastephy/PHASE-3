@@ -58,13 +58,18 @@ Powering Zap
 
 
 ![SHOT 12   12](https://github.com/user-attachments/assets/37a9a20e-31cb-495f-95b1-b7b2af061aeb)
+
+
+
+![SHOT 12](https://github.com/user-attachments/assets/a6449c2e-3b9b-4956-a1cb-52eed1eeec46)
+
+
 Zap Overview
 
 Before diving into ZAP, let's first explore the main interface to highlight the locations of key features. The interface is rich with information, showcasing the wide range of functions that ZAP offers.
 
 
 
-![SHOT 12](https://github.com/user-attachments/assets/7849426f-5688-4377-8bdf-934f39d6
 
 
 
