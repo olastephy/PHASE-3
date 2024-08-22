@@ -149,6 +149,13 @@ the scan reviewed no high severity, but no low and informatio and onces.
 
                                THE GENERAL REPORT
 
+
+
+
+
+![zap 1](https://github.com/user-attachments/assets/77325eda-88c9-479d-8521-1d9336243273)
+
+
  
 
 
