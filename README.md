@@ -142,6 +142,7 @@ After the scan is complete, any discovered nodes will be displayed in the site t
 5 Low
 
 3 information
+
 the scan reviewed no high severity, but no low and informatio and onces.
 
  
