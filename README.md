@@ -113,6 +113,8 @@ After the spidering process is complete, you will see all the discovered nodes f
 
 
 
+![shot 16](https://github.com/user-attachments/assets/b1a776da-54e1-42cd-bae8-59cfa9ad8daa)a
+No vulnerability found
 
 
 
