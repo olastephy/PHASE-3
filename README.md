@@ -118,5 +118,10 @@ No vulnerability found
 
 
 
+![shot 17](https://github.com/user-attachments/assets/0d12115a-d95b-416e-829b-4f6812941801)
+
+After the scan is complete, any discovered nodes will be displayed in the site tree area with a red spider icon next to them. The AJAX spider examined 1,461 URLs, whereas the standard spider scanned 138 URLs.
+
+
 
 
