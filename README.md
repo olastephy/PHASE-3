@@ -136,8 +136,11 @@ After the scan is complete, any discovered nodes will be displayed in the site t
 
  ![shot 20](https://github.com/user-attachments/assets/2a8d5168-f505-4e4b-9a5b-c060208c5593)
 11 Alerts found
+
 0 Medium
+
 5 Low
+
 3 information
 
  
