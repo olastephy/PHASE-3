@@ -24,6 +24,8 @@ Kali update
 
 ![SHOT 3](https://github.com/user-attachments/assets/8a0d8496-1efe-470d-97c3-f3b1fba5908f)
 
+
+
 ![SHOT 3   4](https://github.com/user-attachments/assets/6ec8457a-58f8-4169-9bed-ebd8e8addcbb)
 
   Kali upgrade
@@ -71,6 +73,28 @@ When you start ZAP, you’ll see a prompt asking, “Do you want to persist this
 Before we begin using ZAP, let's take a look at the main interface and identify where some of the key features are located. The interface contains a lot of information because ZAP offers many functionalities.
 
 
+![SHOT 13](https://github.com/user-attachments/assets/86bbe0f4-343f-4167-a484-3e9a7ce867b4)
+
+
+Features:
+
+    Menu Bar: Here, you can manage sessions, generate reports, access tools, get help, and more.
+    Toolbar: Contains buttons that offer shortcuts to frequently used features.
+    Tree Window: Shows a hierarchical view of the site you're testing and the script tree.
+    Quickstart/Workspace Window: Provides an easy way to use ZAP, especially for beginners. It also displays request responses and editable scripts.
+    Information Window, including:
+        History Tab: Logs all HTTP requests and responses sent and received through ZAP.
+        Search Tab: Allows you to search through requests and responses.
+        Alerts Tab: Displays security alerts detected during scans.
+        Output Tab: Provides detailed output from various scans and processes.
+    Footer: Shows ZAP status information.
+        Alerts Counter: Summarizes the alerts found, color-coded to indicate their severity.
+        Main Proxy: Displays the main proxy configuration used by ZAP, set to "localhost:8080."
+        Current Scans: Lists any ongoing scans, with icons showing their status or progress.
+
+Update Addons
+
+Before you start using ZAP, it's important to check for and update any addons to ensure you have the latest features and improvements. To check for updates, press CTRL + U or use the toolbar shortcut.
 
 
 
