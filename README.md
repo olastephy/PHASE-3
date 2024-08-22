@@ -58,6 +58,10 @@ Powering Zap
 
 
 ![SHOT 12   12](https://github.com/user-attachments/assets/9de177be-c634-4798-931e-55e6156e1d2b)
-Zap Overview
+
+
+
+![SHOT 12](https://github.com/user-attachments/assets/6ecd8b82-79b5-40ae-a080-3a8953751574)
+zap overview
 
 
