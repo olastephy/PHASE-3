@@ -64,9 +64,7 @@ Before diving into ZAP, let's first explore the main interface to highlight the 
 
 
 
-[SHOT 12](https://github.com/user-attachments/assets/3de730d8-98d5-46a6-8f6e-88bc8933b2b5)
-
-
+![SHOT 12](https://github.com/user-attachments/assets/7849426f-5688-4377-8bdf-934f39d648f6)
 
 Overview of the OWASP ZAP Interface
 
@@ -89,10 +87,7 @@ Overview of the OWASP ZAP Interface
         Main Proxy: Shows the main proxy configuration that ZAP uses, typically set to "localhost:8080."
         Current Scans: Displays any active scans, with icons indicating their status or progress.
 
-
-Updating Add-ons
-
-Before you begin using ZAP, it's crucial to check for and update any add-ons. This guarantees that you're working with the most recent features and enhancements.
+Before you begin using zap, it is crucial to check and update any add-ons. this guaratess that you are working with the most recent features and enhaceement.
 
 
 
