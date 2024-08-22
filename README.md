@@ -35,3 +35,9 @@ Zap Installtion
 ![SHOT 6](https://github.com/user-attachments/assets/41916daa-5363-4fe3-9d1f-32a4bc06c5cd)
 Downloading of ADD-ONS for firefox browser extension
 
+
+
+![SHOT 7](https://github.com/user-attachments/assets/a3a46608-ceb6-469c-917f-0eb650d82c47)
+Configuration Of Foxyproxy
+
+
