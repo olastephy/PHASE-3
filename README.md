@@ -7,4 +7,7 @@ Kali update
 
 
 ![SHOT 3](https://github.com/user-attachments/assets/8a0d8496-1efe-470d-97c3-f3b1fba5908f)
-Kali upgrade
+
+![SHOT 3   4](https://github.com/user-attachments/assets/6ec8457a-58f8-4169-9bed-ebd8e8addcbb)
+
+  Kali upgrade
