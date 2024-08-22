@@ -57,13 +57,19 @@ Importation  of the Cerificate
 Powering Zap
 
 
-![SHOT 12   12](https://github.com/user-attachments/assets/37a9a20e-31cb-495f-95b1-b7b2af061aeb)
 
 
 
 ![SHOT 12](https://github.com/user-attachments/assets/a6449c2e-3b9b-4956-a1cb-52eed1eeec46)
 
 When you start ZAP, you’ll see a prompt asking, “Do you want to persist this ZAP session?” If you choose “No, I do not want to persist this session at this moment in time,” ZAP will not save the session to the HSQL database. This means that once you close ZAP, any request history, site information, and other session details will not be saved and will be lost. If you opt to persist the session, you can save and reload the session data later.
+
+
+
+![SHOT 12   12](https://github.com/user-attachments/assets/37a9a20e-31cb-495f-95b1-b7b2af061aeb)
+
+Before we begin using ZAP, let's take a look at the main interface and identify where some of the key features are located. The interface contains a lot of information because ZAP offers many functionalities.
+
 
 
 
