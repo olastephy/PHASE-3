@@ -124,4 +124,8 @@ After the scan is complete, any discovered nodes will be displayed in the site t
 
 
 
+![shot 18](https://github.com/user-attachments/assets/3415947f-3640-454c-9fbd-d33f1bacc0e1)
+4 Ajax spider deteced
+
+
 
