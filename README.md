@@ -44,3 +44,11 @@ Configuration Of Foxyproxy
 Downloading Of the Certificate 
 
 
+![SHOT 9](https://github.com/user-attachments/assets/28f8fe7b-d7fd-4243-8c7f-d034bc60c595)
+
+Importation Of the Certificate
+
+
+
+
+
