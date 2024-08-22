@@ -63,8 +63,8 @@ Zap Overview
 Before diving into ZAP, let's first explore the main interface to highlight the locations of key features. The interface is rich with information, showcasing the wide range of functions that ZAP offers.
 
 
-
 [SHOT 12](https://github.com/user-attachments/assets/c5c9fdc5-49c5-4e9f-98c4-f537cefe2dbc)
+
 
 
 Overview of the OWASP ZAP Interface
