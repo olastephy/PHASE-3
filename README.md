@@ -29,5 +29,5 @@ Kali update
   Kali upgrade
 
 ![SHOT 5](https://github.com/user-attachments/assets/c8095383-baa3-410d-98dd-d5800bb6d3ec)
-Istallation of Zap
+Zap Installtion
   
