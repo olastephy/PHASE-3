@@ -106,6 +106,11 @@ In the next window, input the URL of the web app you want to scan and choose the
 
 
 
+![shot 15](https://github.com/user-attachments/assets/333857e4-d13e-41ec-a1db-b70bfbb3de29)
+
+
+After the spidering process is complete, you will see all the discovered nodes for the web app. In the lower-right corner, it will show that 91 nodes were found, with "Nodes Added: 47," indicating the number of new items that the Spider has located and added to the Sites tree during the crawl.
+
 
 
 
