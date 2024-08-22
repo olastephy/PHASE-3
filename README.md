@@ -128,4 +128,11 @@ After the scan is complete, any discovered nodes will be displayed in the site t
 4 Ajax spider deteced
 
 
+![shot 19](https://github.com/user-attachments/assets/99301f0d-ddc2-4ef9-8e46-b77efc483ff2)
+
+ No Alert Found
+
+
+
+
 
