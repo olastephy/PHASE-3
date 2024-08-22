@@ -163,9 +163,34 @@ the scan reviewed no high severity, but no low and informatio and onces.
 ![zap4](https://github.com/user-attachments/assets/ba549b14-c67c-468f-adb3-f2de043ee536)
 
 
+![zap 5](https://github.com/user-attachments/assets/eea9dbbb-aa30-49c8-8185-c77490b85396)
+
+![zap 6](https://github.com/user-attachments/assets/1fcdd3a5-2228-4cd4-8ffe-9cc5706de832)
+
+
+![zap 7](https://github.com/user-attachments/assets/f4d7119d-0a29-4828-8b33-6158b44c21a4)
+
+
+
+![zap 9](https://github.com/user-attachments/assets/beb12798-42ec-4b77-bd25-5d86cc6b377a)
+
+
+![zap 10](https://github.com/user-attachments/assets/b6f90f63-adea-47aa-a354-582ff2c87df1)
+
+
+
+![zap 11](https://github.com/user-attachments/assets/c7159d4d-d73e-4d83-bddf-cd19297a5d3e)
 
 
  
+![zap 12](https://github.com/user-attachments/assets/1e0ef1d0-f7aa-417b-b2d8-5dcf12d66470)
+
+
+
+![zap 13](https://github.com/user-attachments/assets/9be8e106-70ce-4764-9a02-0389e7ca27b0)
+
+
+
 
 
 
