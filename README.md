@@ -51,9 +51,7 @@ Downloading Of the Certificate
 Importation  of the Cerificate
 
 
-[SHOT 11](https://github.com/user-attachments/assets/c2e7f483-005e-442e-997e-36f7ea20f145)
+
+![SHOT 11](https://github.com/user-attachments/assets/b474e0a7-ef2b-4287-a6c3-6a7f3bfc0c8c)
+
 Powering Zap
-
-
-
-
